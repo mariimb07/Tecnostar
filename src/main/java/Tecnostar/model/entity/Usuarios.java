@@ -1,4 +1,4 @@
-package Tecnostar.model.entity;
+package tecnostar.model.entity;
 
 public class Usuarios {
     
